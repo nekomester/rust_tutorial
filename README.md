@@ -14,4 +14,5 @@ rustのチュートリアル
 |:---|:---|
 |ferris|![ferris](https://rustacean.net/assets/rustacean-orig-noshadow.svg)公式マスコットキャラクター。カニ|
 |cargo|依存関係管理ツール兼ビルドツール|
-|rustfmt|コードスタイル（フォーマッター？linter？）|
+|rustfmt|コードスタイル（フォーマッター）|
+|rustacean|ラステイシャン. Rustを書く人のこと. Crustacean（甲殻類）が語源.|
