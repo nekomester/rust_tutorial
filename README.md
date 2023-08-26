@@ -16,3 +16,4 @@ rustのチュートリアル
 |cargo|依存関係管理ツール兼ビルドツール|
 |rustfmt|コードスタイル（フォーマッター）|
 |rustacean|ラステイシャン. Rustを書く人のこと. Crustacean（甲殻類）が語源.|
+|Clippy|構文解析（リンター）|
